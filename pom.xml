@@ -7,7 +7,7 @@
     </parent>
     <groupId>au.gov.amsa</groupId>
     <artifactId>ais-ship-data-2014</artifactId>
-    <version>2.1</version>
+    <version>2.2-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>Parent pom for ais-ship-data-2014 project modules</description>
 
@@ -41,7 +41,7 @@
         <connection>${scm.url}</connection>
         <developerConnection>${scm.url}</developerConnection>
         <url>${scm.url}</url>
-        <tag>2.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
