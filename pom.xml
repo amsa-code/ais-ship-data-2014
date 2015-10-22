@@ -10,7 +10,6 @@
     <version>2.1-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>Parent pom for ais-ship-data-2014 project modules</description>
-    <packaging>pom</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
